@@ -22,7 +22,7 @@ convertor("kilosalibras",25) // 55.00
 convertor("librasakilos",25) // 11.25
 ```
 
-##Créditos
+## Créditos
 
 - [Jose Molina](https://www.facebook.com/joeyandcely)
 
