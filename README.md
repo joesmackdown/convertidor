@@ -1,8 +1,8 @@
-#Convertidor de peso
+# Convertidor de peso
 
 Función que convierte de kilos a libras y de libras a kilos
 
-##Descripcion del programa
+## Descripcion del programa
 
 -Llamar a convertor, ingresarle la cadena "kilosalibras" y el numero de kilos, regresará la cantidad de libras.
 -Llamar a convertor, ingresarle la cadena "librasakilos" y el numero de libras, regresará la cantidad de kilos.
